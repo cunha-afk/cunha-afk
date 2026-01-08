@@ -10,8 +10,7 @@ Sou finalista da licenciatura em Comunicação e Multimédia na UTAD e atualment
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BernardoCunha) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
