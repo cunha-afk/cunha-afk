@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Sou finalista da licenciatura em Comunicação e Multimédia na UTAD e atualmente estou a trabalhar num projeto de reserva de alojamento em equipa com mais três colegas, onde aplicamos as boas práticas de desenvolvimento web e gestão de projetos colaborativos.<br>Tenho especial interesse em desenvolvimento backend com PHP e Laravel, mas também gosto de trabalhar o lado frontend com HTML, CSS e JavaScript. No meu percurso académico e pessoal, tenho desenvolvido websites, aplicações e APIs, sempre com foco na simplicidade, funcionalidade e boa experiência de utilizador.<br>Sou uma pessoa comunicativa, com facilidade em aprender novas tecnologias e motivação para resolver problemas em equipa. Acredito que cada projeto é uma oportunidade para crescer e construir algo significativo.
 
 
