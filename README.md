@@ -3,7 +3,7 @@ Sou finalista da licenciatura em Comunicação e Multimédia na UTAD e atualment
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BernardoCunha)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bernardocunha.code@gmail.com) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/BernardoCunha](https://www.linkedin.com/in/bernardo-cunha-8638b5375/))  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bernardocunha.code@gmail.com) 
 
 # 💻 Tech Stack:
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
